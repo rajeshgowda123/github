@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hi - dev
+=======
+hi
+this is in dev1
+>>>>>>> origin/master
